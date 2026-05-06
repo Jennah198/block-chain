@@ -27,7 +27,7 @@ Our goal was to build practical smart contract examples, document key concepts, 
 | Rahemet Hussen | `Ugr/3150/15` |
 | Hawi Girma| `ID_HERE` |
 | Elham Abdu | `ID_HERE` |
-| Nezira Worku | `ID_HERE` |
+| Nezira Worku | `Ugr/31080/15` |
 | Remedan Jemal | `ID_HERE` |
 
 ---
