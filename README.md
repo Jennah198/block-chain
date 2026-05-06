@@ -24,11 +24,11 @@ Our goal was to build practical smart contract examples, document key concepts, 
 
 | Name | ID |
 |------|----|
-| Rahemet Hussen | `Ugr/3150/15` |
-| Hawi Girma| `ID_HERE` |
-| Elham Abdu | `ID_HERE` |
+| Rahemet Hussen | `Ugr/31501/15` |
+| Hawi Girma| `ugr/30634/15` |
+| Elham Abdu | `ugr/30454/15` |
 | Nezira Worku | `Ugr/31080/15` |
-| Remedan Jemal | `ID_HERE` |
+| Remedan Jemal | `ugr/31138/15` |
 
 ---
 
